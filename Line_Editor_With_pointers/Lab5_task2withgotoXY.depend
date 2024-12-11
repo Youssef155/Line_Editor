@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732182370 source:e:\youssef\cpp\algorithms\lab5_task2withgotoxy\main.c
+	<stdio.h>
+	<windows.h>
+
